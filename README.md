@@ -1,4 +1,4 @@
-# Sistema de gestión
+# Sistema de Gestión de Inventarios
 
 ## ¿Qué es Kardex?
 
