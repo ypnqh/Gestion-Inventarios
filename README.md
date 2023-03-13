@@ -1,4 +1,5 @@
 # Sistema de Gestión de Inventarios
+Permite a las empresas controlar y llevar un seguimiento detallado de su inventario, y optimizar el nivel de stock disponible.
 
 ## Maquetación de interfaces
 
